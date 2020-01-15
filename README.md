@@ -3,6 +3,7 @@
 
 ## Replit problems
 
+- [balanced-brackets](https://github.com/rsundar/data-structures/balanced-brackets.rb)
 - [basic-recursion](https://github.com/rsundar/data-structures/basic-recursion.rb)
 - [lists](https://www.github.com/rsundar/data-structures/lists.rb)
 - [linked-list](https://www.github.com/rsundar/data-structures/linked-list.rb)
