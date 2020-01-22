@@ -7,7 +7,7 @@
 - [balanced-brackets](https://github.com/rsundar/data-structures/tree/master/balanced-brackets.rb)
 - [basic-recursion](https://github.com/rsundar/data-structures/tree/master/basic-recursion.rb)
 - [binary-search](https://github.com/rsundar/data-structures/tree/master/binary-search.rb)
-- [lists](https://www.github.com/rsundar/data-structures/lists.rb)
+- [lists](https://www.github.com/rsundar/data-structures/tree/master/lists.rb)
 - [linked-list](https://www.github.com/rsundar/data-structures/linked-list.rb)
 - [min-stack](https://www.github.com/rsundar/data-structures/min-stack.rb)
 - [stack](https://www.github.com/rsundar/data-structures/stack.rb)
