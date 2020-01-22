@@ -3,7 +3,7 @@
 
 ## Replit problems
 
-- [backtracking-recursion](https://github.com/rsundar/data-structures/backtracking-recursion.rb)
+- [backtracking-recursion](https://github.com/rsundar/data-structures/tree/master/backtracking-recursion.rb)
 - [balanced-brackets](https://github.com/rsundar/data-structures/balanced-brackets.rb)
 - [basic-recursion](https://github.com/rsundar/data-structures/basic-recursion.rb)
 - [binary-search](https://github.com/rsundar/data-structures/binary-search.rb)
