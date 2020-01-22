@@ -5,7 +5,7 @@
 
 - [backtracking-recursion](https://github.com/rsundar/data-structures/tree/master/backtracking-recursion.rb)
 - [balanced-brackets](https://github.com/rsundar/data-structures/tree/master/balanced-brackets.rb)
-- [basic-recursion](https://github.com/rsundar/data-structures/basic-recursion.rb)
+- [basic-recursion](https://github.com/rsundar/data-structures/tree/master/basic-recursion.rb)
 - [binary-search](https://github.com/rsundar/data-structures/binary-search.rb)
 - [lists](https://www.github.com/rsundar/data-structures/lists.rb)
 - [linked-list](https://www.github.com/rsundar/data-structures/linked-list.rb)
