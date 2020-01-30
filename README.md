@@ -13,7 +13,7 @@
 - [partitioning for quicksort](https://github.com/rsundar/data-structures/tree/master/partitioning-algorithmfor-quicksort.rb)
 - [simple-quicksort](https://github.com/rsundar/data-structures/tree/master/simple-quicksort.rb)
 - [stack](https://www.github.com/rsundar/data-structures/tree/master/stack.rb)
-- [towers-of-hanoi-1](https://github.com/rsundar/data-structures/towers-of-hanoi-1.rb)
+- [towers-of-hanoi-1](https://github.com/rsundar/data-structures/tree/master/towers-of-hanoi-1.rb)
 - [towers-of-hanoi-2](https://github.com/rsundar/data-structures/towers-of-hanoi-2.rb)
 - [transposition](https://github.com/rsundar/data-structures/transposition.rb)
 
