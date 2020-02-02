@@ -8,7 +8,7 @@
 - [basic-recursion](https://github.com/rsundar/data-structures/tree/master/basic-recursion.rb)
 - [binary-search](https://github.com/rsundar/data-structures/tree/master/binary-search.rb)
 - [lists](https://www.github.com/rsundar/data-structures/tree/master/lists.rb)
-- [linked-list](https://www.github.com/rsundar/data-structures/linked-list.rb)
+- [linked-list](https://www.github.com/rsundar/data-structures/tree/master/linked-list.rb)
 - [min-stack](https://www.github.com/rsundar/data-structures/tree/master/min-stack.rb)
 - [partitioning for quicksort](https://github.com/rsundar/data-structures/tree/master/partitioning-algorithmfor-quicksort.rb)
 - [simple-quicksort](https://github.com/rsundar/data-structures/tree/master/simple-quicksort.rb)
