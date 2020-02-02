@@ -10,7 +10,7 @@
 - [lists](https://www.github.com/rsundar/data-structures/tree/master/lists.rb)
 - [linked-list](https://www.github.com/rsundar/data-structures/tree/master/linked-list.rb)
 - [min-stack](https://www.github.com/rsundar/data-structures/tree/master/min-stack.rb)
-- [partitioning for quicksort](https://github.com/rsundar/data-structures/tree/master/partitioning-algorithmfor-quicksort.rb)
+- [partitioning for quicksort](https://github.com/rsundar/data-structures/tree/master/partitioning-algorithm-for-quicksort.rb)
 - [simple-quicksort](https://github.com/rsundar/data-structures/tree/master/simple-quicksort.rb)
 - [stack](https://www.github.com/rsundar/data-structures/tree/master/stack.rb)
 - [towers-of-hanoi-1](https://github.com/rsundar/data-structures/tree/master/towers-of-hanoi-1.rb)
