@@ -3,7 +3,7 @@
 
 ## Replit problems
 
-- [advanced-quicksort](https://github.com/rsundar/data-structutres/tree/master/advanced-quicksort.rb)
+- [advanced-quicksort](https://github.com/rsundar/data-structures/tree/master/advanced-quicksort.rb)
 - [backtracking-recursion](https://github.com/rsundar/data-structures/tree/master/backtracking-recursion.rb)
 - [balanced-brackets](https://github.com/rsundar/data-structures/tree/master/balanced-brackets.rb)
 - [basic-recursion](https://github.com/rsundar/data-structures/tree/master/basic-recursion.rb)
