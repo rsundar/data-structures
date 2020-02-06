@@ -18,3 +18,7 @@
 - [towers-of-hanoi-2](https://github.com/rsundar/data-structures/tree/master/towers-of-hanoi-2.rb)
 - [transposition](https://github.com/rsundar/data-structures/tree/master/transposition.rb)
 
+## Coffee and Code Meetups
+--------------------------
+
+- [Meetup1](https://www.github.com/rsundar/data-structures/tree/master/donut-coffee-and-code/trithayarthi-ghosh-meetup.rb)
