@@ -18,6 +18,7 @@
 - [queue](https://github.com/rsundar/data-structures/tree/master/queue.rb)
 - [quicksort-running-time](https://github.com/rsundar/tree/master/quicksort-running-time.rb)
 - [simple-quicksort](https://github.com/rsundar/data-structures/tree/master/simple-quicksort.rb)
+- [sliding-maximum](https://github.com/rsundar/data-structures/tree/master/sliding-maximum.rb)
 - [stack](https://www.github.com/rsundar/data-structures/tree/master/stack.rb)
 - [towers-of-hanoi-1](https://github.com/rsundar/data-structures/tree/master/towers-of-hanoi-1.rb)
 - [towers-of-hanoi-2](https://github.com/rsundar/data-structures/tree/master/towers-of-hanoi-2.rb)
