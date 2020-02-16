@@ -8,6 +8,7 @@
 - [balanced-brackets](https://github.com/rsundar/data-structures/tree/master/balanced-brackets.rb)
 - [basic-recursion](https://github.com/rsundar/data-structures/tree/master/basic-recursion.rb)
 - [binary-search](https://github.com/rsundar/data-structures/tree/master/binary-search.rb)
+- [counting-sort1](https://github.com/rsundar/data-structures/tree/master/counting-sort1.rb)
 - [insertion-sort-running-time](https://github.com/rsundar/data-structures/tree/master/insertion-sort-running-time.rb)
 - [insertion-sort-itself](https://github.com/data-structures/tree/master/insertion-sort-itself.rb)
 - [insertion-sort1](https://github.com/data-structures/tree/master/insertion-sort1.rb)
