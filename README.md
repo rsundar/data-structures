@@ -17,7 +17,7 @@
 12. [min-stack](https://www.github.com/rsundar/data-structures/tree/master/min-stack.rb)
 13. [partitioning for quicksort](https://github.com/rsundar/data-structures/tree/master/partitioning-algorithm-for-quicksort.rb)
 14. [queue](https://github.com/rsundar/data-structures/tree/master/queue.rb)
-15. [quicksort-running-time](https://github.com/rsundar/tree/master/quicksort-running-time.rb)
+15. [quicksort-running-time](https://github.com/rsundar/data-structures/tree/master/quicksort-running-time.rb)
 16. [simple-counting-sort](https://github.com/rsundar/data-structures/tree/master/simple-counting-sort.rb)
 17. [simple-quicksort](https://github.com/rsundar/data-structures/tree/master/simple-quicksort.rb)
 18. [sliding-maximum](https://github.com/rsundar/data-structures/tree/master/sliding-maximum.rb)
