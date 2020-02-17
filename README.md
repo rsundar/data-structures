@@ -18,12 +18,13 @@
 13. [partitioning for quicksort](https://github.com/rsundar/data-structures/tree/master/partitioning-algorithm-for-quicksort.rb)
 14. [queue](https://github.com/rsundar/data-structures/tree/master/queue.rb)
 15. [quicksort-running-time](https://github.com/rsundar/tree/master/quicksort-running-time.rb)
-16. [simple-quicksort](https://github.com/rsundar/data-structures/tree/master/simple-quicksort.rb)
-17. [sliding-maximum](https://github.com/rsundar/data-structures/tree/master/sliding-maximum.rb)
-18. [stack](https://www.github.com/rsundar/data-structures/tree/master/stack.rb)
-19. [towers-of-hanoi-1](https://github.com/rsundar/data-structures/tree/master/towers-of-hanoi-1.rb)
-20. [towers-of-hanoi-2](https://github.com/rsundar/data-structures/tree/master/towers-of-hanoi-2.rb)
-21. [transposition](https://github.com/rsundar/data-structures/tree/master/transposition.rb)
+16. [simple-counting-sort](https://github.com/rsundar/data-structures/tree/master/simple-counting-sort.rb)
+17. [simple-quicksort](https://github.com/rsundar/data-structures/tree/master/simple-quicksort.rb)
+18. [sliding-maximum](https://github.com/rsundar/data-structures/tree/master/sliding-maximum.rb)
+19. [stack](https://www.github.com/rsundar/data-structures/tree/master/stack.rb)
+20. [towers-of-hanoi-1](https://github.com/rsundar/data-structures/tree/master/towers-of-hanoi-1.rb)
+21. [towers-of-hanoi-2](https://github.com/rsundar/data-structures/tree/master/towers-of-hanoi-2.rb)
+22. [transposition](https://github.com/rsundar/data-structures/tree/master/transposition.rb)
 
 ## Coffee and Code Meetups
 --------------------------
