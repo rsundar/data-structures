@@ -16,6 +16,7 @@
 11. [insertion-sort1](https://github.com/data-structures/tree/master/insertion-sort1.rb)
 12. [lists](https://www.github.com/rsundar/data-structures/tree/master/lists.rb)
 13. [linked-list](https://www.github.com/rsundar/data-structures/tree/master/linked-list.rb)
+14. [merge-sort1](https://www.github.com/rsundar/data-structures/tree/master/merge-sort1.rb)
 14. [min-stack](https://www.github.com/rsundar/data-structures/tree/master/min-stack.rb)
 15. [partitioning for quicksort](https://github.com/rsundar/data-structures/tree/master/partitioning-algorithm-for-quicksort.rb)
 16. [queue](https://github.com/rsundar/data-structures/tree/master/queue.rb)
