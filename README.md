@@ -9,6 +9,7 @@
 4. [basic-recursion](https://github.com/rsundar/data-structures/tree/master/basic-recursion.rb)
 5. [binary-search](https://github.com/rsundar/data-structures/tree/master/binary-search.rb)
 6. [counting-sort1](https://github.com/rsundar/data-structures/tree/master/counting-sort1.rb)
+7. [full-merge-sort](https://github.com/rsundar/data-structures/tree/master/full-merge-sort.rb)
 7. [full-counting-sort-prep](https://github.com/data-structures/tree/master/full-counting-sort-prep.rb)
 8. [full-counting-sort](https://github.com/data-structures/tree/master/full-counting-sort.rb)
 9. [insertion-sort-running-time](https://github.com/rsundar/data-structures/tree/master/insertion-sort-running-time.rb)
