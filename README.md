@@ -34,3 +34,4 @@
 --------------------------
 
 - [Meetup1](https://www.github.com/rsundar/data-structures/tree/master/donut-coffee-and-code/trithayarthi-ghosh-meetup.rb)
+- [Meetup2](https://www.github.com/rsundar/data-structures/tree/master/donut-coffee-and-code/sohaib-meetup.rb)
