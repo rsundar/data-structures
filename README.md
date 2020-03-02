@@ -11,6 +11,7 @@
 6. [counting-sort1](https://github.com/rsundar/data-structures/tree/master/counting-sort1.rb)
 7. [full-merge-sort](https://github.com/rsundar/data-structures/tree/master/full-merge-sort.rb)
 8. [full-counting-sort-prep](https://github.com/data-structures/tree/master/full-counting-sort-prep.rb)
+9. [finding_duplicates](https://github.com/data-structures/tree/master/finding_duplicates.rb)
 9. [full-counting-sort](https://github.com/data-structures/tree/master/full-counting-sort.rb)
 10. [insertion-sort-running-time](https://github.com/rsundar/data-structures/tree/master/insertion-sort-running-time.rb)
 11. [insertion-sort-itself](https://github.com/data-structures/tree/master/insertion-sort-itself.rb)
