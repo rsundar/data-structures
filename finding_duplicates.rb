@@ -4,7 +4,9 @@ def find_duplicates(array)
   # write your code here
   s = Set.new
   array.each_with_index do |i,j|
-    s.add(j) if array.count(j) > 1
+    if not s.include?(i) and array.count(i) > 1
+      s << i
+    end
   end
   s.to_a
 end
