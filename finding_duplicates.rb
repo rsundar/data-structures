@@ -3,12 +3,15 @@ require 'set'
 def find_duplicates(array)
   # write your code here
   s = Set.new
-  array.each_with_index do |i,j|
-    if not s.include?(i) and array.count(i) > 1
-      s << i
-    end
-  end
-  s.to_a
+  out = []
+  
+  array.select { |n| s.add?(n).nil? }
+  # array.each_with_index do |i,j|
+  #   if s.add?(i).nil? 
+  #     out << i
+  #   end
+  # end
+  # out
 end
 
 p find_duplicates([1, 2, 3, 1, 5, 6, 7, 8, 5, 2])
