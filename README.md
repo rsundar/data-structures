@@ -17,6 +17,7 @@
 12. [insertion-sort-itself](https://github.com/data-structures/tree/master/insertion-sort-itself.rb)
 13. [insertion-sort1](https://github.com/data-structures/tree/master/insertion-sort1.rb)
 14. [lists](https://www.github.com/rsundar/data-structures/tree/master/lists.rb)
+15. [maps](https://www.github.com/rsundar/data-structures/tree/master/maps-appears-most-times.rb)
 15. [linked-list](https://www.github.com/rsundar/data-structures/tree/master/linked-list.rb)
 16. [merge-sort1](https://www.github.com/rsundar/data-structures/tree/master/merge-sort1.rb)
 17. [min-stack](https://www.github.com/rsundar/data-structures/tree/master/min-stack.rb)
