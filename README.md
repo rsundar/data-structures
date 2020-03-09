@@ -32,6 +32,11 @@
 27. [towers-of-hanoi-2](https://github.com/rsundar/data-structures/tree/master/towers-of-hanoi-2.rb)
 28. [transposition](https://github.com/rsundar/data-structures/tree/master/transposition.rb)
 
+## Hackerrank problems (python)
+-------------------------------
+
+1. [drawing-book](https://github.com/rsundar/tree/master/hackerrank solutions/drawing-book.py)
+
 ## Coffee and Code Meetups
 --------------------------
 
