@@ -38,6 +38,7 @@
 1. [drawing-book](https://github.com/rsundar/tree/master/hackerrank solutions/drawing-book.py)
 2. [electronics-store](https://github.com/rsundar/tree/master/hackerrank solutions/electronics-store.py)
 3. [picking-numbers](https://github.com/rsundar/tree/master/hackerrank solutions/picking-numbers.py)
+4. [the-hurdle-race](https://github.com/rsundar/tree/master/hackerrank solutions/the-hurdle-race.py)
 
 ## Coffee and Code Meetups
 --------------------------
