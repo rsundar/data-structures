@@ -41,6 +41,7 @@
 4. [the-hurdle-race](https://github.com/rsundar/tree/master/hackerrank solutions/the-hurdle-race.py)
 5. [angry-professor](https://github.com/rsundar/tree/master/hackerrank solutions/angry-professor.py)
 6. [find-digits](https://github.com/rsundar/tree/master/hackerrank solutions/find-digits.py)
+7. [library-fine](https://github.com/rsundar/tree/master/hackerrank solutions/library-fine.py)
 
 ## Coffee and Code Meetups
 --------------------------
