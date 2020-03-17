@@ -43,7 +43,7 @@
 6. [find-digits](https://github.com/rsundar/tree/master/hackerrank solutions/find-digits.py)
 7. [library-fine](https://github.com/rsundar/tree/master/hackerrank solutions/library-fine.py)
 8. [repeated-string](https://github.com/rsundar/tree/master/hackerrank solutions/repeated-string.py)
-
+9. [equality-in-an-array](https://github.com/rsundar/tree/master/hackerrank solutions/equality-in-an-array.py)
 
 ## Coffee and Code Meetups
 --------------------------
