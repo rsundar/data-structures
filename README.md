@@ -44,6 +44,7 @@
 7. [library-fine](https://github.com/rsundar/tree/master/hackerrank solutions/library-fine.py)
 8. [repeated-string](https://github.com/rsundar/tree/master/hackerrank solutions/repeated-string.py)
 9. [equality-in-an-array](https://github.com/rsundar/tree/master/hackerrank solutions/equality-in-an-array.py)
+10. [encryption](https://github.com/rsundar/tree/master/hackerrank solutions/encryption.py)
 
 ## Coffee and Code Meetups
 --------------------------
