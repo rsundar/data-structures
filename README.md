@@ -46,6 +46,7 @@
 9. [equality-in-an-array](https://github.com/rsundar/tree/master/hackerrank solutions/equality-in-an-array.py)
 10. [encryption](https://github.com/rsundar/tree/master/hackerrank solutions/encryption.py)
 11. [beautiful-triplets](https://github.com/tree/master/hackerrank solutions/beautiful-triplets.py)
+12. [time-in-words](https://github.com/tree/master/hackerrank solutions/time-in-words.py)
 
 ## Coffee and Code Meetups
 --------------------------
