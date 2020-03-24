@@ -48,6 +48,7 @@
 11. [beautiful-triplets](https://github.com/tree/master/hackerrank solutions/beautiful-triplets.py)
 12. [time-in-words](https://github.com/tree/master/hackerrank solutions/time-in-words.py)
 13. [chocolate-feast](https://github.com/tree/master/hackerrank solutions/chocolate-feast.py)
+14. [lisas-workbook](https://github.com/tree/master/hackerrank solutions/lisas-workbook.py)
 
 ## Coffee and Code Meetups
 --------------------------
