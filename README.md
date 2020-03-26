@@ -50,6 +50,7 @@
 13. [chocolate-feast](https://github.com/tree/master/hackerrank solutions/chocolate-feast.py)
 14. [lisas-workbook](https://github.com/tree/master/hackerrank solutions/lisas-workbook.py)
 15. [fair-rations](https://github.com/tree/master/hackerrank solutions/fair-rations.py)
+16. [cavity-map](https://github.com/tree/master/hackerrank solutions/cavity-map.py)
 
 ## Coffee and Code Meetups
 --------------------------
